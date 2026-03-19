@@ -47,12 +47,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bảo Hoàng-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:hoangbao27092004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hoangbao27092004-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://www.facebook.com/hoang.bao.311907/">
+    <img src="https://img.shields.io/badge/Facebook-Hoang Bao-1877F2?style=for-the-badge&logo=facebook"/>
+  </a>
+</p>
+
+<p align="center">
+  📞 <b>Phone:</b> 0368 287 072
 </p>
 
 ---
