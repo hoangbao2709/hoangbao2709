@@ -1,114 +1,138 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Hoàng Thanh Chí Bảo</h1>
+<h3 align="center">⚙️ Embedded Systems Engineer from Vietnam 🇻🇳</h3>
 
-# Hi, I'm Hoàng Thanh Chí Bảo 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJqbmZ6eXJqbmZ6eXJqbmZ6eXJqbmZ6eXJqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Coding animation"/>
+</p>
 
-### Embedded Systems Engineer · Computer Engineering Student
-
-I build reliable firmware, connected IoT devices, and autonomous robotic systems.
-
-[![Portfolio](https://img.shields.io/badge/Explore_my_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://hoang-bao-2004-umtj.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangbao27092004@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://hoang-bao-2004-umtj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## About me
+## 🧠 About Me
 
-I'm a final-year **Computer Engineering** student at **Ho Chi Minh City University of Technology (HCMUT)**, graduating in September 2026.
+- 🎓 Final-year **Computer Engineering Student** at Ho Chi Minh City University of Technology (HCMUT).
+- 🔧 Focused on **Embedded Software, Firmware, Real-Time Systems, and Robotics**.
+- 🤖 Experienced with **STM32, ESP32, Raspberry Pi, ROS 2, SLAM, and LiDAR**.
+- 🐧 Passionate about Embedded Linux, low-level programming, and hardware–software integration.
+- 🌱 Currently exploring **TinyML, Edge AI, and autonomous robotic systems**.
+- 💼 Open to **Embedded Software / Firmware Engineer** opportunities.
 
-My main interests are embedded software, real-time systems, and robotics. I enjoy working close to the hardware—from peripheral drivers and RTOS task design to Linux-based robot services, autonomous navigation, and IoT dashboards.
+---
 
-- 🔭 Currently developing embedded and autonomous systems with **STM32, ESP32, Raspberry Pi, and ROS 2**
-- ⚙️ Comfortable with **GPIO, timers, interrupts, PWM, UART, I²C, SPI, CAN, and RTOS**
-- 🧠 Exploring **TinyML, SLAM, computer vision, and edge AI**
-- 🤝 Open to **Embedded Software / Firmware Engineer** opportunities
+## 🛠️ Tech Stack
 
-## Technical toolbox
+### ⚙️ Embedded Systems & Firmware
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | C, C++, Python, JavaScript, TypeScript, SQL |
-| **Embedded platforms** | STM32, ESP32, Arduino, Raspberry Pi |
-| **Firmware & protocols** | FreeRTOS, STM32 HAL, GPIO, PWM, UART, I²C, SPI, CAN, MQTT, ESP-NOW |
-| **Robotics & edge AI** | ROS 2 Humble, Nav2, Cartographer SLAM, Gazebo, RViz2, OpenCV, TensorFlow Lite Micro |
-| **Linux & infrastructure** | Ubuntu, Docker, REST APIs, NetBird VPN |
-| **Engineering tools** | STM32CubeIDE, PlatformIO, Altium Designer, Proteus, Trace32, Logic Analyzer |
-| **Web & data** | Next.js, React, Django, MongoDB, PostgreSQL |
-| **Collaboration** | Git, GitHub, Jira, Confluence, Sourcetree |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi" alt="Embedded programming languages and platforms"/>
+</p>
 
-## Featured projects
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-2F7D32?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+</p>
 
-### 🐕 Autonomous Quadruped Robot — DOGZILLA S2
+### 🤖 Robotics, IoT & Edge AI
 
-An autonomous quadruped robot built with **ROS 2 Humble**, real-time SLAM, autonomous navigation, and AI-powered voice interaction. The project earned a **9.38/10** graduation thesis score.
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+  <img src="https://img.shields.io/badge/SLAM-6A5ACD?style=for-the-badge" alt="SLAM"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TinyML"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
 
-- Developed a Dockerized robot server for hardware control, LiDAR data, and navigation APIs
-- Implemented QR landmark recognition for semantic mapping and autonomous patrol
-- Integrated offline speech control and online LLM intent mapping through MCP
-- Built Gazebo simulations and a Next.js/Django telemetry dashboard with FPV streaming
+### 🐧 Development Tools
 
-`ROS 2` `Nav2` `Cartographer` `Raspberry Pi 5` `STM32` `LiDAR` `OpenCV` `Docker`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vscode" alt="Development tools"/>
+</p>
 
-[View project →](https://github.com/hoangbao2709/HK251-DAGD1-430-dogzilla_robot)
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium Designer"/>
+  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge" alt="Proteus"/>
+</p>
 
-### 🏠 Smart Home Mini — IoT & TinyML
+### 🔌 Interfaces & Protocols
 
-An ESP32-S3 smart-home system combining environmental sensing, cloud connectivity, inter-device communication, and on-device machine learning.
+`GPIO` · `Timer` · `Interrupt` · `PWM` · `UART` · `I²C` · `SPI` · `CAN` · `MQTT` · `ESP-NOW`
 
-- Designed concurrent firmware using FreeRTOS tasks, queues, semaphores, and mutexes
-- Connected sensors and actuators through I²C, GPIO, MQTT, ESP-NOW, and Wi-Fi
-- Deployed TensorFlow Lite Micro models for anomaly detection and digit-based access control
+---
 
-`ESP32-S3` `C/C++` `FreeRTOS` `MQTT` `ESP-NOW` `TinyML` `TensorFlow Lite Micro`
+## 🚀 Featured Projects
 
-[View TinyML work →](https://github.com/hoangbao2709/TinyML)
+- 🐕 **[DOGZILLA S2 Autonomous Quadruped Robot](https://github.com/hoangbao2709/HK251-DAGD1-430-dogzilla_robot)**<br>
+  Developed an autonomous quadruped robot using ROS 2 Humble, Nav2, Cartographer SLAM, LiDAR, and AI-based voice interaction. Built a Dockerized robot server, telemetry dashboard, QR landmark recognition, and Gazebo simulation. **Graduation thesis score: 9.38/10.**
 
-### 🚦 STM32 Traffic Light Control System
+- 🏠 **[Smart Home Mini — IoT & TinyML](https://github.com/hoangbao2709/TinyML)**<br>
+  Built an ESP32-S3 smart-home system using FreeRTOS, MQTT, ESP-NOW, and TensorFlow Lite Micro for real-time anomaly detection and digit-based access control.
 
-A configurable traffic-light controller designed around finite-state machines and a cooperative scheduler, with local and remote operation.
+- 🚦 **[STM32 Traffic Light Control System](https://github.com/hoangbao2709/BTL_VXL)**<br>
+  Designed a configurable traffic-light controller using finite-state machines and a cooperative scheduler, with LCD1602, UART communication, button handling, and ESP32 remote control.
 
-- Implemented automatic/manual modes and runtime timing configuration
-- Built modular drivers for buttons, LCD1602, UART, GPIO, and timer interrupts
-- Added debouncing, long-press detection, auto-repeat, and ESP32 web control
+---
 
-`STM32` `Embedded C` `FSM` `Cooperative Scheduler` `UART` `I²C` `ESP32`
+## 🎓 Education & Certifications
 
-[View source →](https://github.com/hoangbao2709/BTL_VXL)
-
-## Experience
-
-**Full-Stack Developer Intern · Eyecode**<br>
-*March 2025 – September 2025 · Ho Chi Minh City*
-
-Developed the YouReady IELTS testing platform with React, Django, and MongoDB. Built real-time examination interfaces, optimized REST APIs for concurrent submissions, designed data models, and implemented secure authentication. This experience now supports my work on embedded telemetry, remote monitoring, and IoT cloud integration.
-
-## Education & certifications
-
-- **B.E. in Computer Engineering** — Ho Chi Minh City University of Technology, VNU-HCM<br>
-  *2022–2026 · GPA: 3.1/4.0*
+- **B.E. in Computer Engineering** — HCMUT, VNU-HCM (2022–2026)
 - **Big-O Orange** — Advanced Algorithms & Competitive Programming
 - **Big-O Blue** — Fundamental Algorithms & Data Structures
 - **TOEIC Listening & Reading** — 640/990
 
-## GitHub activity
+---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangbao2709&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Hoang Bao's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbao2709&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
-</div>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://hoang-bao-2004-umtj.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Hoàng%20Bảo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bảo%20Hoàng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hoangbao27092004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hoangbao27092004-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/hoang.bao.311907/">
+    <img src="https://img.shields.io/badge/Facebook-Hoang%20Bao-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<p align="center">
+  📞 <b>Phone:</b> 0368 287 072
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### Let's build something meaningful.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangbao2709&theme=radical&hide_border=true&show_icons=true" height="150" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbao2709&theme=radical&layout=compact&hide_border=true" height="150" alt="Most used languages"/>
+</p>
 
-I'm interested in firmware, embedded Linux, robotics, and IoT opportunities.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangbao2709&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-[Portfolio](https://hoang-bao-2004-umtj.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/) · [Email](mailto:hoangbao27092004@gmail.com)
+---
 
-![Profile views](https://komarev.com/ghpvc/?username=hoangbao2709&style=flat-square&color=2ea44f)
+## ✍️ Engineering Philosophy
 
-</div>
+- Understand the hardware. Control the software.
+- Build reliable systems, not just working prototypes.
+- Stay curious. Keep learning. Keep improving.
+
+> 💡 *“The best embedded system is the one you can trust when no one is watching.”*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangbao2709&color=blue&style=flat-square" alt="Profile visitors"/>
+</p>
