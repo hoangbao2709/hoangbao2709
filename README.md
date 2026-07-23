@@ -1,90 +1,114 @@
-<h1 align="center">Hi 👋, I'm Hoang Bao</h1>
-<h3 align="center">🚀 Embedded & Fullstack Developer from Vietnam 🇻🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eXJqbmZ6eXJqbmZ6eXJqbmZ6eXJqbmZ6eXJqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
-</p>
+# Hi, I'm Hoàng Thanh Chí Bảo 👋
 
----
+### Embedded Systems Engineer · Computer Engineering Student
 
-## 🧠 About Me
+I build reliable firmware, connected IoT devices, and autonomous robotic systems.
 
-- 🎓 **Engineering Student** with a strong focus on Robotics & Web Technologies.
-- 🔧 Specialized in **Autonomous Systems** (ROS2, SLAM, LiDAR) and **Fullstack Development**.
-- 🐧 Linux enthusiast & Low-level programming lover.
-- 🧩 Experienced in building E-commerce platforms and IoT integration.
-- 📚 Always learning, always improving.
+[![Portfolio](https://img.shields.io/badge/Explore_my_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://hoang-bao-2004-umtj.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoangbao27092004@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-### 🤖 Embedded & Robotics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,python,ros,raspberrypi,arduino" />
-</p>
+I'm a final-year **Computer Engineering** student at **Ho Chi Minh City University of Technology (HCMUT)**, graduating in September 2026.
 
-### 🌐 Fullstack Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,django,postgres,mongodb" />
-</p>
+My main interests are embedded software, real-time systems, and robotics. I enjoy working close to the hardware—from peripheral drivers and RTOS task design to Linux-based robot services, autonomous navigation, and IoT dashboards.
 
-### 🛠️ Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
-</p>
+- 🔭 Currently developing embedded and autonomous systems with **STM32, ESP32, Raspberry Pi, and ROS 2**
+- ⚙️ Comfortable with **GPIO, timers, interrupts, PWM, UART, I²C, SPI, CAN, and RTOS**
+- 🧠 Exploring **TinyML, SLAM, computer vision, and edge AI**
+- 🤝 Open to **Embedded Software / Firmware Engineer** opportunities
+
+## Technical toolbox
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C, C++, Python, JavaScript, TypeScript, SQL |
+| **Embedded platforms** | STM32, ESP32, Arduino, Raspberry Pi |
+| **Firmware & protocols** | FreeRTOS, STM32 HAL, GPIO, PWM, UART, I²C, SPI, CAN, MQTT, ESP-NOW |
+| **Robotics & edge AI** | ROS 2 Humble, Nav2, Cartographer SLAM, Gazebo, RViz2, OpenCV, TensorFlow Lite Micro |
+| **Linux & infrastructure** | Ubuntu, Docker, REST APIs, NetBird VPN |
+| **Engineering tools** | STM32CubeIDE, PlatformIO, Altium Designer, Proteus, Trace32, Logic Analyzer |
+| **Web & data** | Next.js, React, Django, MongoDB, PostgreSQL |
+| **Collaboration** | Git, GitHub, Jira, Confluence, Sourcetree |
+
+## Featured projects
+
+### 🐕 Autonomous Quadruped Robot — DOGZILLA S2
+
+An autonomous quadruped robot built with **ROS 2 Humble**, real-time SLAM, autonomous navigation, and AI-powered voice interaction. The project earned a **9.38/10** graduation thesis score.
+
+- Developed a Dockerized robot server for hardware control, LiDAR data, and navigation APIs
+- Implemented QR landmark recognition for semantic mapping and autonomous patrol
+- Integrated offline speech control and online LLM intent mapping through MCP
+- Built Gazebo simulations and a Next.js/Django telemetry dashboard with FPV streaming
+
+`ROS 2` `Nav2` `Cartographer` `Raspberry Pi 5` `STM32` `LiDAR` `OpenCV` `Docker`
+
+[View project →](https://github.com/hoangbao2709/HK251-DAGD1-430-dogzilla_robot)
+
+### 🏠 Smart Home Mini — IoT & TinyML
+
+An ESP32-S3 smart-home system combining environmental sensing, cloud connectivity, inter-device communication, and on-device machine learning.
+
+- Designed concurrent firmware using FreeRTOS tasks, queues, semaphores, and mutexes
+- Connected sensors and actuators through I²C, GPIO, MQTT, ESP-NOW, and Wi-Fi
+- Deployed TensorFlow Lite Micro models for anomaly detection and digit-based access control
+
+`ESP32-S3` `C/C++` `FreeRTOS` `MQTT` `ESP-NOW` `TinyML` `TensorFlow Lite Micro`
+
+[View TinyML work →](https://github.com/hoangbao2709/TinyML)
+
+### 🚦 STM32 Traffic Light Control System
+
+A configurable traffic-light controller designed around finite-state machines and a cooperative scheduler, with local and remote operation.
+
+- Implemented automatic/manual modes and runtime timing configuration
+- Built modular drivers for buttons, LCD1602, UART, GPIO, and timer interrupts
+- Added debouncing, long-press detection, auto-repeat, and ESP32 web control
+
+`STM32` `Embedded C` `FSM` `Cooperative Scheduler` `UART` `I²C` `ESP32`
+
+[View source →](https://github.com/hoangbao2709/BTL_VXL)
+
+## Experience
+
+**Full-Stack Developer Intern · Eyecode**<br>
+*March 2025 – September 2025 · Ho Chi Minh City*
+
+Developed the YouReady IELTS testing platform with React, Django, and MongoDB. Built real-time examination interfaces, optimized REST APIs for concurrent submissions, designed data models, and implemented secure authentication. This experience now supports my work on embedded telemetry, remote monitoring, and IoT cloud integration.
+
+## Education & certifications
+
+- **B.E. in Computer Engineering** — Ho Chi Minh City University of Technology, VNU-HCM<br>
+  *2022–2026 · GPA: 3.1/4.0*
+- **Big-O Orange** — Advanced Algorithms & Competitive Programming
+- **Big-O Blue** — Fundamental Algorithms & Data Structures
+- **TOEIC Listening & Reading** — 640/990
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangbao2709&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Hoang Bao's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbao2709&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-- **Dogzilla S2 Quadruped Robot**: Developed an autonomous quadruped robot using ROS2, LiDAR, and SLAM for navigation. (Grade: 9.2/10).
-- **KRON Coffee E-commerce**: A full-stack coffee trading platform built with Next.js and Django.
-- **YouReady**: An interactive online IELTS testing platform with real-time exam interfaces.
+### Let's build something meaningful.
 
----
+I'm interested in firmware, embedded Linux, robotics, and IoT opportunities.
 
-## 🌐 Connect With Me
+[Portfolio](https://hoang-bao-2004-umtj.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/) · [Email](mailto:hoangbao27092004@gmail.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/b%E1%BA%A3o-ho%C3%A0ng-461697287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bảo Hoàng-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:hoangbao27092004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hoangbao27092004-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.facebook.com/hoang.bao.311907/">
-    <img src="https://img.shields.io/badge/Facebook-Hoang Bao-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=hoangbao2709&style=flat-square&color=2ea44f)
 
-<p align="center">
-  📞 <b>Phone:</b> 0368 287 072
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangbao2709&theme=radical&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangbao2709&theme=radical&layout=compact&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangbao2709&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## ✍️ Developer Philosophy
-
-- Stay humble. Keep learning.  
-- Focus on solving problems, not just writing code.  
-- Build with both logic and creativity.  
-
-> 💡 *“Every system can be broken — it just hasn’t been tested enough yet.”*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangbao2709&color=blue&style=flat-square" alt="Visitors"/>
-</p>
+</div>
